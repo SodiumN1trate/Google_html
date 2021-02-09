@@ -127,3 +127,11 @@ body{
 .second-nav-text{
     margin-left: -0.5%;
 }
+
+.right-text a, .left-text a{
+    color: #6F6F6F;
+    text-decoration: none;
+}
+.right-text a:hover, .left-text a:hover{
+    text-decoration: underline;
+}
