@@ -46,12 +46,14 @@ body{
     height: 15px;
     padding-top: 2.9%;
     padding-left: 3%;
+    user-select: none;
 }
 .keyboard-icon{
     float: right;
     height: 13px;
     padding-top: 3%;
     padding-right: 3%;
+    user-select: none;
 }
 .header{
     text-align: right;
