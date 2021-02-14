@@ -86,9 +86,12 @@ body{
     margin-left: 180px;
     width: 100%;
 }
+.left-side > span > a{
+    text-decoration: none;
+}
 
 .left-side > span, .right-side > span{
-    padding:20px 8px 20px 10px;
+    padding:20px 8px 8px;
 }
 .left-side > a{
     margin-left:15%;
@@ -137,9 +140,12 @@ body{
 }
 
 .page-buttons{
-    margin-top: 1%;
     max-width: 700px;
     text-align: center;
+}
+
+.page-buttons > a{
+    text-decoration: none;
 }
 
 .page-button{
